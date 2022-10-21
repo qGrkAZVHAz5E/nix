@@ -1,0 +1,22 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "lineWrap": true,
+  "autoConvertHtml": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./images",
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "promptDelete": false
+}

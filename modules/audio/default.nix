@@ -1,0 +1,7 @@
+{
+  sound.enable = true;
+  hardware.pulseaudio.enable = true;
+  hardware.pulseaudio.support32Bit = true;
+  hardware.bluetooth.enable = true;
+  services.blueman.enable = true; 
+}

@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 15,
+  "translucency": true,
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "File_explorer_lines",
+    "Center_Images",
+    "Enlarged_Image_Hover",
+    "Bullet_Point_Lines",
+    "line_length"
+  ]
+}
